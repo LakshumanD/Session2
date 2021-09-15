@@ -1,4 +1,4 @@
-// Execute the below code and write your description in txt file
+// 4. Execute the below code and write your description in txt file
 console.log(typeof 1); // number
 console.log(typeof 1.1); // number
 console.log(typeof "1.1"); // string
